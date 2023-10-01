@@ -38,13 +38,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex API - DIO",
+      "url": "https://github.com/bruno-amorim-de-souza/PokedexAPI_DIO",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "JavaScript Developer - DIO",
+      "url": "https://github.com/bruno-amorim-de-souza/js-developer-portfolio",
       "github": true
     }
   ],
