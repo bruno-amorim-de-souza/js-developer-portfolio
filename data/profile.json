@@ -50,19 +50,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Analista de suporte em 2º nível/Tester-QA | TCS",
+      "period": "2022 - Atualmente",
+      "description": "Responsável pela integração e suporte a sistema de integração dados;  Gerenciamento de tickets e SLA para suporte;  Visualização de dados utilizando SQL;  Aplicação de testes em formato White Box e Gray Box; Automação de testes"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de suporte em 1º nível | TCS",
+      "period": "2020 - 2022",
+      "description": "Suporte via telefone, chat e e-mail; Abertura e fechamento de tickets; Suporte em inglês"
     }
   ]
 }
